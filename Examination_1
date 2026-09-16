@@ -6,4 +6,5 @@
 
 # เขียนโค้ดต่อจากนี้
 name = input()
-
+name = input("ชื่อของคุณ")
+ print "Hello" name
